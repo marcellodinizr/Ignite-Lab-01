@@ -1,1 +1,1 @@
-# Ignite-Lab-01
+# Ignite Lab 01
